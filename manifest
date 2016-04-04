@@ -1,0 +1,11 @@
+commands = {}
+modules = {}
+repository = {
+   oscar = {
+      ["0.1-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   }
+}
